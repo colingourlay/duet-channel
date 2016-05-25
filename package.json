@@ -1,0 +1,19 @@
+{
+  "name": "duet-channel",
+  "version": "1.0.0",
+  "description": "Create a namespaced channel to plug your own API into duet's delegator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/colingourlay/duet-channel.git"
+  },
+  "author": "Colin Gourlay <colin@colin-gourlay.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colingourlay/duet-channel/issues"
+  },
+  "homepage": "https://github.com/colingourlay/duet-channel"
+}
